@@ -1,0 +1,70 @@
+# Project: Payment Processor System
+
+echo "Project Overview:"
+echo "The Payment Processor System enables customers to make secure, efficient payments online."
+echo "Goal: Provide a seamless, secure, and convenient experience for users processing payments."
+
+echo ""
+echo "Roles & Responsibilities:"
+
+echo "1. Customer"
+echo "   - Needs: 'I want a convenient, secure way to pay online without hassles.'"
+echo "   - Primary focus: Intuitive, fast, and secure experience."
+
+echo "2. Project Leader"
+echo "   - Perspective: 'Ensure the payment processor meets customer needs, deadlines, and stays within budget.'"
+echo "   - Responsibilities: Define project scope, organize tasks, and coordinate team roles."
+
+echo "3. Business Analyst"
+echo "   - Perspective: 'Map out workflow and requirements for a secure and user-friendly payment experience.'"
+echo "   - Responsibilities: Translate customer requirements into specifications (e.g., encryption, fraud detection)."
+
+echo "4. Developer/Programmer"
+echo "   - Perspective: 'Implement a system that securely handles transactions and integrates with payment gateways.'"
+echo "   - Responsibilities: Code the backend and frontend, focusing on security protocols and user interface."
+
+echo "5. Business Consultant"
+echo "   - Perspective: 'Position this payment processor as a cutting-edge tool in online commerce.'"
+echo "   - Responsibilities: Highlight market relevance and competitive advantages."
+
+echo "6. Quality Assurance (QA) Tester"
+echo "   - Perspective: 'Test to ensure the processor is secure, reliable, and bug-free.'"
+echo "   - Responsibilities: Design tests to validate functionality and security of transactions."
+
+echo ""
+echo "Personas:"
+echo "Based on typical users of the payment processor, we have two primary personas."
+
+echo "Persona 1: Online Shopper"
+echo "   - Background: Busy professional, shops frequently online."
+echo "   - Goal: Wants a fast and secure checkout experience."
+echo "   - Frustration: Doesn't want to repeatedly enter payment information."
+echo "   - Demands: A secure 'Save my card' feature for future purchases."
+
+echo "Persona 2: Small Business Owner"
+echo "   - Background: Manages online transactions for a small business."
+echo "   - Goal: Needs a reliable payment system with minimal transaction fees."
+echo "   - Frustration: High transaction fees cut into profits."
+echo "   - Demands: Detailed transaction reports and low-fee payment processing."
+
+echo ""
+echo "User Stories:"
+echo "User stories describe key actions each persona expects from the payment processor."
+
+echo "1. Online Shopper"
+echo "   Story: 'As an online shopper, I want to securely save my payment details, so I can check out quickly on future purchases.'"
+echo "   Story: 'As an online shopper, I want to receive email notifications after every transaction, so I can track my spending.'"
+
+echo "2. Small Business Owner"
+echo "   Story: 'As a business owner, I want low transaction fees, so I can maximize my profits.'"
+echo "   Story: 'As a business owner, I want detailed transaction reports, so I can manage my finances efficiently.'"
+
+echo ""
+echo "Grade My Work Checklist:"
+echo "1. Persona clarity: Each persona represents a specific user type with clear goals and frustrations."
+echo "2. User story structure: User stories follow the format 'As a [user type], I want [goal], so I can [benefit].'"
+echo "3. Completeness: Covers primary functions of a payment processor from different perspectives (shopper, business owner)."
+echo "4. Submission: Combine exercises into a single PDF file for submission."
+
+echo ""
+echo "End of CLI documentation for Payment Processor Project."
